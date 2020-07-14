@@ -6,4 +6,3 @@ Also used for updates.
 2. Open an administrative powershell (right-click on windows button -> "Windows PowerShell (Admin)")
 3. Go to script path and execute: Set-ExecutionPolicy Bypass; .\provision.ps1 
 
-# 
